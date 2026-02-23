@@ -1,9 +1,6 @@
 
 ![I am a Student of Brunel University London of Computer Science](https://scontent-lhr8-1.xx.fbcdn.net/v/t1.6435-9/167026361_1810405142465200_3261843213261954093_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=174925&_nc_ohc=CcjBLr7EAKQAX-Yg7Sn&tn=dov4J0beQyuJBr2S&_nc_ht=scontent-lhr8-1.xx&oh=00_AT-daMPOIcVqdcebUDZtf5PJXmMO_4JI7DYuTU50PrbRJg&oe=62332C1F)
-### Hi there 👋,  I'm MD Tawfiqul Islam
-#### I am a Student of Brunel University London of Computer Science
-
-Second-year computer science with Artificial Intelligence student, the future Data Scientist, with 1.5 years experience in Backend, Front End, and Database. My passion for Data Science brought me to Brunel University London Where I am working on my bachelor's degree
+### Hi there 👋,  I'm Tawfiqul Islam
 
 Currently, I focus on installing and testing Data science on Python. I typically use C, Java, Python, and MySQL.
 
