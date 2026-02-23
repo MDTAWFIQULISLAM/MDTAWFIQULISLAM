@@ -16,8 +16,6 @@ Skills: Python/Java/C / MySQL/ JavaScript / HTML / CSS
 - 💬 Ask me about Object-oriented programming 
 - 📫 How to reach me: mdtawfiqulislam@outlook.com,
                       [LinkedIn@imthetawfiq](https://www.linkedin.com/in/md-tawfiqul-islam-/),
-                      My Portfolio@[imthetawfiq](https://mdtawfiqulislam.github.io/My_Portfolio/),
-                      Instagram@[imthetawfiq](https://www.instagram.com/tawfiq_islam_/)
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: I spend lot of time in IT Industry 
 
